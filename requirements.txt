@@ -1,0 +1,4 @@
+llama-index
+llama-index-extractors-entity
+llama-index-llms-bedrock
+nest-asyncio
