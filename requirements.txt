@@ -1,4 +1,15 @@
+langchain
+langchain-aws
+langchain-community
+langchain-openai
+langchainhub
 llama-index
 llama-index-extractors-entity
 llama-index-llms-bedrock
 nest-asyncio
+numexpr
+openai
+py_expression_eval
+pygments
+transformers
+wikipedia
